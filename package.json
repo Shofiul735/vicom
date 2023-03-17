@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Shofiul735/vicom/issues"
   },
-  "homepage": "https://github.com/Shofiul735/vicom#readme"
+  "homepage": "https://github.com/Shofiul735/vicom#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
 }
