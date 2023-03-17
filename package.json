@@ -1,0 +1,22 @@
+{
+  "name": "vicom",
+  "version": "1.0.0",
+  "description": "An application for realtime video communication ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shofiul735/vicom.git"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "Md. Shofiul Islam",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Shofiul735/vicom/issues"
+  },
+  "homepage": "https://github.com/Shofiul735/vicom#readme"
+}
